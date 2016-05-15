@@ -1,0 +1,76 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,800);
+
+body {
+  text-align: center;
+  background-color: #00BCD4;
+  color: #fff;
+  font-size: 100%;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+ 
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+h1 {
+  font-family: 'Open Sans';
+  font-weight: 800;
+  margin: 50px 0 -80px 0;
+  font-size: 550%;
+}
+
+.quote-wrapper {
+  height: 350px;
+  max-width: 960px;
+  width: 90%;
+  margin: 150px auto -115px;
+}
+
+button {
+  border: 2px solid #fff;
+  background-color: transparent;
+  color: #fff;
+  font-family: 'Open Sans';
+  font-weight: 800;
+  font-size: 200%;
+  padding: 10px 20px;
+  transition: all 0.3s ease 0s;
+}
+
+button:hover {
+  background-color: #fff;
+  color: #00BCD4;
+}
+
+.tweetQuote {
+  font-family: 'Open Sans';
+  color: #fff;
+  text-decoration: none;
+}
+
+.tweetQuote {
+  
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.quote {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  font-size: 420%;
+  color: #000;
+  line-height: 0.875;
+  content: "";
+}
+
+
+
+
+
